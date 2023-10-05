@@ -2,6 +2,6 @@
 
 * [Golang学习](README.md)
 
-## 读写配置文件
+## Read/write configuration file
 
-* [viper的使用](du-xie-pei-zhi-wen-jian/viper-de-shi-yong.md)
+* [📜 Use of viper](read-write-configuration-file/use-of-viper.md)
